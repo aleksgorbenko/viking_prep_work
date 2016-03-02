@@ -11,9 +11,9 @@ Task Instructions: http://www.vikingcodeschool.com/web-design-basics/tearing-dow
 
 I have also written an article on it: https://aleksgorbenko.com/tearing-down-and-mockingup-facebook-ux/
 
-- Pseudo-Code: Grilled Cheese, Shopping for Ingridients and Logic Game.
+- Pseudo-Code: Grilled Cheese, Shopping for Ingredients and Logic Game.
 
-Files: cheese.rb, ingridients.rb, logic-game.rb
+Files: cheese.rb, ingredients.rb, logic-game.rb
 
 Task Instructions: http://www.vikingcodeschool.com/software-engineering-basics/practice-with-pseudo-coding
 
