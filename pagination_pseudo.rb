@@ -4,24 +4,30 @@ PROGRAM DisplayPagination:
     N = can only be integer
     GET the total number of pages
         IF the total number of pages = 1
-        Display "1" with no link
+            Display "1" with no link
+        END
+
+        IF the total number of pages < 5
+            Display the "Previous" word or link
+            Display all page numbers with links
+            Display the current page with no link
+            Display the "Next" word or link
     ELSE
         Display the "Previous" word or link
         For EACH number in the list of pages DO
-            Display "FirstTwoPages"
-        THEN
-            IF DisplayEllipse: true, THEN
-                Display "Ellipse"
-            ELSE
-                Continue
-            Display "PreviousPageNumber"
-        THEN
-            Display the current page with no link to it
-        THEN
-            Display "NextPageNumber"
-        THEN
+            Display "FirstTwoPages" THEN
+                IF DisplayEllipse: true, THEN
+                    Display "Ellipse"
+                ELSE
+                    Continue
+                        Display "PreviousPageNumber" THEN
+                            Display the current page with no link to it THEN
+                        Display "NextPageNumber" THEN
+                IF DisplayEllipse: true, THEN
+                    Display "Ellipse"
+                ELSE
+                    Continue
             Display "LastTwoPages"  
-
     END
     Display the "Next" word or link
 END
@@ -86,29 +92,23 @@ END
 
 
 PROGRAM DisplayEllipse:
-    IF DisplayPreviousPageNumber = TRUE
-        THEN
-            Display "..." with the link instead of all page numbers between N and "FirstTwoPages"
+    IF the total number of pages is > 5 AND
+        distance between the first page and N is > 4 THEN
+            Display "..." with the link instead of all page numbers between "FirstTwoPages" and "PreviousPageNumber"
         END
     END
 
-    IF DisplayNextPageNumber = TRUE
-        THEN
-            Display "..." with the link instead of all page numbers between N and "LastTwoPages"
+    IF the total number of pages is > 5 AND
+        distance between the N page and last page is > 4 THEN
+            Display "..." with the link instead of all page numbers between "NextPageNumber" and "LastTwoPages"
         END
     END
 
-    IF (total number of pages > 8 OR total number of pages = 8) DO
-        IF N = last page or N = (last page - 1)
-        THEN
-            Display "..." with the link instead of all page numbers between N and "FirstTwoPages"
-        END
-    END
-
-    IF (total number of pages > 8 OR total number of pages = 8) DO
-        IF N = first page or N = (first page + 1)
-        THEN
-            Display "..." with the link instead of all page numbers between N and "LastTwoPages" 
+    IF the total number of pages = 5 AND
+        IF N = last page or first page THEN
+        DisplayEllipse instead of page "3"
+    ELSE
+        Continue
         END
     END
 END
