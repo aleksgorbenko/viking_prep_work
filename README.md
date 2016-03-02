@@ -6,6 +6,7 @@ This repo will have the following items:
 1. Facebook UX and Design Teardown: 
 
 Files: all PDF files
+
 Task Instructions: http://www.vikingcodeschool.com/web-design-basics/tearing-down-and-mocking-up-facebook
 
 I have also written an article on it: https://aleksgorbenko.com/tearing-down-and-mockingup-facebook-ux/
