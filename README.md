@@ -33,4 +33,7 @@ Task Instructions: http://www.vikingcodeschool.com/software-engineering-basics/t
 
 - Viking eCommerce Shop Page: vikingshop.html, viking_main.css (in process)
 
-NOTE: some files are .rb - they are not Ruby, they are written in pseudo-code. I made them .rb for having syntax colours in SublimeText.
+
+
+
+    NOTE: some files are .rb - they are not Ruby, they are written in pseudo-code. I made them .rb for having syntax colours in SublimeText.
