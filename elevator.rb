@@ -1,4 +1,4 @@
-# My developer's friend pseudocode to specify chnage of states
+# My developer's friend pseudocode to specify change states of the elevator
 # This bit is the only one which is not designed by me
 
 PROGRAM IS_STATE_VALID(from_state, to_state)
