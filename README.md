@@ -29,7 +29,7 @@ Files: pagination_pseudo.rb
 
 Task Instructions: http://www.vikingcodeschool.com/software-engineering-basics/turning-a-new-feature-into-agile-stories-and-pseudocode
 
-- Google homepage CSS mockup: google.html, google_main.css (in process)
+- Google homepage CSS mockup can be seen in a separate repo: https://github.com/kucher12/viking_prep_work-GoogleHomepage/tree/master
 
 - Viking eCommerce Shop Page: vikingshop.html, viking_main.css (in process)
 
