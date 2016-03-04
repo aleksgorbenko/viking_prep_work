@@ -18,4 +18,3 @@ PROGRAM GroceryShopping
   END
 END
 
-[test line]
