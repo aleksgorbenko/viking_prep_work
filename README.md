@@ -5,7 +5,7 @@ This repo will have the following items:
 
 - Facebook UX and Design Teardown: 
 
-Files: all PDF files
+Files: facebook-5-pages.pdf + facebook-5-pages.bmpr file (Balsamiq Mockups format) + 5 PNG files
 
 Task Instructions: http://www.vikingcodeschool.com/web-design-basics/tearing-down-and-mocking-up-facebook
 
