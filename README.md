@@ -5,35 +5,51 @@ This repo will have the following items:
 
 <h2>Facebook UX and Design Teardown</h2>
 
-Files: facebook-5-pages.pdf + facebook-5-pages.bmpr file (Balsamiq Mockups format) + 5 PNG files
+<h4>Files:</h4>
 
-Task Instructions: http://www.vikingcodeschool.com/web-design-basics/tearing-down-and-mocking-up-facebook
+<p>facebook-5-pages.pdf + facebook-5-pages.bmpr file (Balsamiq Mockups format) + 5 PNG files</p>
 
-I have also written an article on it: https://aleksgorbenko.com/tearing-down-and-mockingup-facebook-ux/
+<p>Task Instructions: http://www.vikingcodeschool.com/web-design-basics/tearing-down-and-mocking-up-facebook</p>
 
-- Pseudo-Code: Grilled Cheese, Shopping for Ingredients and Logic Game.
+<p>I have also written an article on it: https://aleksgorbenko.com/tearing-down-and-mockingup-facebook-ux/</p>
 
-Files: cheese.rb, ingredients.rb, logic-game.rb
+<h2>Pseudo-Code: Grilled Cheese, Shopping for Ingredients and Logic Game.</h2>
 
-Task Instructions: http://www.vikingcodeschool.com/software-engineering-basics/practice-with-pseudo-coding
+<h4>Files:</h4>
 
-- Elevator Assignment:
+<p>cheese.rb, ingredients.rb, logic-game.rb</p>
 
-Files: elevator.rb
+<p>Task Instructions: http://www.vikingcodeschool.com/software-engineering-basics/practice-with-pseudo-coding</p>
 
-Task Instructions: http://www.vikingcodeschool.com/software-engineering-basics/pseudocoding-modular-design
+<h2>Elevator Assignment:</h2>
 
-- Pagination Assignment:
+<h4>Files:</h4> 
 
-Files: pagination_pseudo.rb
+<p>elevator.rb</p>
 
-Task Instructions: http://www.vikingcodeschool.com/software-engineering-basics/turning-a-new-feature-into-agile-stories-and-pseudocode
+<p>Task Instructions: http://www.vikingcodeschool.com/software-engineering-basics/pseudocoding-modular-design</p>
 
-- Google homepage CSS mockup can be seen in a separate repo: https://github.com/kucher12/viking_prep_work-GoogleHomepage/tree/master
+<h2>Pagination Assignment:</h2>
 
-- Viking eCommerce Shop Page also in its separate repo: 
+<h4>Files:<h/4> 
+
+<p>pagination_pseudo.rb</p>
+
+<p>Task Instructions: http://www.vikingcodeschool.com/software-engineering-basics/turning-a-new-feature-into-agile-stories-and-pseudocode</p>
+
+<h2>Google homepage CSS mockup</h2> 
+
+<p>It can be seen in a separate repo: https://github.com/kucher12/viking_prep_work-GoogleHomepage/tree/master</p>
+
+<p>Or view the result in the browser: https://rawgit.com/kucher12/viking_prep_work-GoogleHomepage/master/google.html</p>
+
+<h2>Viking eCommerce Shop Page</h2> 
+
+<p>Also in its separate repo: https://github.com/kucher12/viking_prep_work-VikingShop</p>
+
+<p>Final result: https://rawgit.com/kucher12/viking_prep_work-VikingShop/master/index.html</p>
+
+<p>Task instructions for Google and Viking Shop: http://www.vikingcodeschool.com/web-markup-and-coding/your-turn-to-build-with-html-and-css</p>
 
 
-
-
-    NOTE: some files are .rb - they are not Ruby, they are written in pseudo-code. I made them .rb for having syntax colours in SublimeText.
+<em>NOTE: some files are .rb - they are not Ruby, they are written in pseudo-code. I made them .rb for having syntax colours in SublimeText.</em>
