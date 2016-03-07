@@ -31,7 +31,7 @@ This repo will have the following items:
 
 <h2>Pagination Assignment:</h2>
 
-<h4>Files:<h/4> 
+<h4>Files:</h4> 
 
 <p>pagination_pseudo.rb</p>
 
