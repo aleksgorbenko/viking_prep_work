@@ -3,7 +3,7 @@ Assignments for the Viking Code School 4-mini-course prep work.
 
 This repo will have the following items:
 
-- Facebook UX and Design Teardown: 
+<h2>Facebook UX and Design Teardown</h2>
 
 Files: facebook-5-pages.pdf + facebook-5-pages.bmpr file (Balsamiq Mockups format) + 5 PNG files
 
@@ -31,7 +31,7 @@ Task Instructions: http://www.vikingcodeschool.com/software-engineering-basics/t
 
 - Google homepage CSS mockup can be seen in a separate repo: https://github.com/kucher12/viking_prep_work-GoogleHomepage/tree/master
 
-- Viking eCommerce Shop Page: vikingshop.html, viking_main.css (in process)
+- Viking eCommerce Shop Page also in its separate repo: 
 
 
 
