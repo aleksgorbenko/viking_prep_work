@@ -11,7 +11,10 @@ This repo will have the following items:
 
 <p>Task Instructions: http://www.vikingcodeschool.com/web-design-basics/tearing-down-and-mocking-up-facebook</p>
 
-<p>I have also written an article on it: https://aleksgorbenko.com/tearing-down-and-mockingup-facebook-ux/</p>
+<p>I have also written a couple of articles on it: 
+https://aleksgorbenko.com/vcs-prep-work-tearing-and-mocking-up-facebook-ux-and-design-part-1//
+
+https://aleksgorbenko.com/vcs-prep-work-tearing-and-mocking-up-facebook-ux-and-design-part-2/</p>
 
 <h2>Pseudo-Code: Grilled Cheese, Shopping for Ingredients and Logic Game.</h2>
 
