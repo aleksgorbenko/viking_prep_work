@@ -40,7 +40,7 @@ https://aleksgorbenko.com/vcs-prep-work-tearing-and-mocking-up-facebook-ux-and-d
 
 <p>Task Instructions: http://www.vikingcodeschool.com/software-engineering-basics/turning-a-new-feature-into-agile-stories-and-pseudocode</p>
 
-<h2>Google homepage CSS mockup</h2> 
+<h2>Google Homepage</h2> 
 
 <p>It can be seen in a separate repo: https://github.com/kucher12/viking_prep_work-GoogleHomepage/tree/master</p>
 
@@ -53,6 +53,16 @@ https://aleksgorbenko.com/vcs-prep-work-tearing-and-mocking-up-facebook-ux-and-d
 <p>Final result: https://rawgit.com/kucher12/viking_prep_work-VikingShop/master/index.html</p>
 
 <p>Task instructions for Google and Viking Shop: http://www.vikingcodeschool.com/web-markup-and-coding/your-turn-to-build-with-html-and-css</p>
+
+<h2>Building 4 Facebook Pages</h2> 
+
+<p> This assignment had to be forked first from the original repo. The repo with the files can be seen here: https://github.com/kucher12/prep_facebook_pages.</p>
+
+<p>You can also view all HTML pages here: <br>
+https://rawgit.com/kucher12/prep_facebook_pages/master/index.html
+https://rawgit.com/kucher12/prep_facebook_pages/master/about.html
+https://rawgit.com/kucher12/prep_facebook_pages/master/friends.html
+https://rawgit.com/kucher12/prep_facebook_pages/master/newsfeed.html</p>
 
 
 <em>NOTE: some files are .rb - they are not Ruby, they are written in pseudo-code. I made them .rb for having syntax colours in SublimeText.</em>
